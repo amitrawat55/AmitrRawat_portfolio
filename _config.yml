@@ -1,4 +1,5 @@
-tittke: Amit Rawat
-logo:
+title: Amit Rawat
+#logo:
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
-
