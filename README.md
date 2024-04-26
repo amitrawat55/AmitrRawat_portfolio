@@ -33,16 +33,18 @@ Hands-on experience in data analytics, demonstrating the ability to extract acti
 Bachelor of Computer Information Systems (CIS)
 University of Fraser Valley, [2021]
 Relevant Coursework:
-CIS 150-
-Include any relevant coursework or specialization within your CIS degree that aligns with your interest in data analytics. This might include courses in database management, data analysis, statistics, or programming 
+COMP 230(DATABASES AND DBMS)
+COMP 251(DATA STRUCTURES AND ALGORITHMS)
+COMP 430(ADVANCE DATABASE TOPICS)
+CIS 270(ANALYSIS AND DESIGN)
+STAT 106(STATISTICS)
+CIS 385 (PROJECT MANAGEMENT)-
+MATH 125 (DISCRETE MATHEMATICS)-
 
-7. Certifications:
-Mention any relevant certifications or training programs you have completed, such as the Google Data Analytics Professional Certificate.
-8. Contact Information:
-Provide your contact information (email, LinkedIn profile) for potential employers to reach out to you.
-9. Design:
-Keep the design minimalist and professional, focusing on clean layouts and easy navigation.
-Use a neutral color palette with pops of color to highlight key elements.
-Ensure that the portfolio is mobile-friendly and optimized for viewing on different devices.
-10. Optional: Testimonials or References:
-If you have any testimonials or references from previous employers or instructors, consider including them to add credibility to your portfolio.
+Certifications:
+Google Data Analytics Professional Certificate.
+
+Contact Information:
+   amitrawatt5@gmail.com
+   linked in-
+
