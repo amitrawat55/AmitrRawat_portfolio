@@ -30,6 +30,7 @@ Hands-on experience in data analytics, demonstrating the ability to extract acti
 # EDUCATION:
 Bachelor of Computer Information Systems (CIS)
 University of Fraser Valley, [2021]
+
 Relevant Coursework:
 * COMP 230(DATABASES AND DBMS)
 * COMP 251(DATA STRUCTURES AND ALGORITHMS)
