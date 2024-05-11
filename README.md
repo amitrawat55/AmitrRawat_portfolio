@@ -2,14 +2,14 @@
 Welcome to my portfolio! I'm Amit Rawat, a motivated and detail-oriented CIS graduate from the University of Fraser Valley with a passion for data analytics and problem-solving. With a solid foundation in SQL, Excel, R, and a variety of other tools, I am equipped with the skills necessary to tackle complex data challenges.
 
 # SKILLS:
-* Proficient in SQL, with experience in writing complex queries to extract, manipulate, and analyze data from relational databases.
-* Advanced knowledge of Microsoft Excel, including data manipulation, advanced formulas, pivot tables, and data visualization techniques.
-* Experienced in R programming for statistical analysis, data visualization, and predictive modeling.
-* Familiarity with other data analytics tools and programming languages, including Python and Tableau.
-* Strong understanding of data wrangling techniques, including data cleaning, transformation, and normalization.
+- | Proficient in SQL, with experience in writing complex queries to extract, manipulate, and analyze data from relational databases.
+- | Advanced knowledge of Microsoft Excel, including data manipulation, advanced formulas, pivot tables, and data visualization techniques.
+- | Experienced in R programming for statistical analysis, data visualization, and predictive modeling.
+- | Familiarity with other data analytics tools and programming languages, including Python and Tableau.
+- | Strong understanding of data wrangling techniques, including data cleaning, transformation, and normalization.
 
 # PROJECT: 
-Google Data Analytics Professional Certificate Case Study
+### Google Data Analytics Professional Certificate Case Study
 
 * Objective:
 Analyzed cycling trends between casual riders and members using real-world data provided by Google to provide insights for company executives to maximize profit.
