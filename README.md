@@ -1,6 +1,5 @@
-# Aspiring data analyst
 
-# INTRODUCTION:
+* INTRODUCTION:
 Welcome to my portfolio! I'm Amit Rawat, a motivated and detail-oriented CIS graduate from the University of Fraser Valley with a passion for data analytics and problem-solving. With a solid foundation in SQL, Excel, R, and a variety of other tools, I am equipped with the skills necessary to tackle complex data challenges.
 
 # SKILLS:
@@ -13,10 +12,10 @@ Welcome to my portfolio! I'm Amit Rawat, a motivated and detail-oriented CIS gra
 # PROJECT: 
 Google Data Analytics Professional Certificate Case Study
 
- Objective:
+* Objective:
 Analyzed cycling trends between casual riders and members using real-world data provided by Google to provide insights for company executives to maximize profit.
 
-Approach:
+* Approach:
 Cleaned and analyzed raw data, identifying average ride_durations, popular_bike_types, and.
 Utilized R for data querying and processing, Excel for data analysis and visualization, and R for statistical analysis and data visualization.
 
