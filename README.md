@@ -1,5 +1,4 @@
-
-* INTRODUCTION:
+# INTRODUCTION:
 Welcome to my portfolio! I'm Amit Rawat, a motivated and detail-oriented CIS graduate from the University of Fraser Valley with a passion for data analytics and problem-solving. With a solid foundation in SQL, Excel, R, and a variety of other tools, I am equipped with the skills necessary to tackle complex data challenges.
 
 # SKILLS:
