@@ -25,7 +25,7 @@ Key Findings:
 
 Outcome:
 Hands-on experience in data analytics, demonstrating the ability to extract actionable insights and translate them into practical recommendations
-https://rpubs.com/Amitrawatt55/casestudy
+[completed case study]https://rpubs.com/Amitrawatt55/casestudy
 
 # EDUCATION:
 Bachelor of Computer Information Systems (CIS)
