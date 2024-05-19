@@ -10,6 +10,7 @@ Welcome to my portfolio! I'm Amit Rawat, a motivated and detail-oriented CIS gra
 
 ## PROJECT: 
 ### Google Data Analytics Professional Certificate Case Study
+[Google capstone case study]()
 
 ### Objective:
 Analyzed cycling trends between casual riders and members using real-world data provided by Google to provide insights for company executives to maximize profit.
