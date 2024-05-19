@@ -43,6 +43,7 @@ University of Fraser Valley, [2021]
 
 ## CERTIFICATIONS:
 **Google Data Analytics Professional Certificate**
+![Certificate](course_certificate.pdf)
 
 ## CONTACT INFORMTION:
    amitrawatt55@gmail.com
