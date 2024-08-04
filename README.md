@@ -43,7 +43,7 @@ University of Fraser Valley, [2021]
 
 ## CERTIFICATIONS:
 **Cisco Data Analytics essentials certificate**
-[certificate](https://www.credly.com/badges/4c2b702b-0d90-4625-8640-a16e6f68000e/public_url)
+![certificate](Introduction_to_Data_Science_Badge20240804-7-wdwrq5 (1).pdf)
 
 **Google Data Analytics Professional Certificate**
 ![Certificate](course_certificate.jpg)
