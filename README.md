@@ -51,5 +51,5 @@ University of Fraser Valley, [2021]
 ## CONTACT INFORMTION:
    amitrawatt55@gmail.com
    
-   linked in-
+   [View on Linkedin](https://www.linkedin.com/in/amit-rawat-0b89a9181/)
 
